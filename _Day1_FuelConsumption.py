@@ -12,7 +12,7 @@ import math
 Total_Fuel=0
 
 #Get the Module Mass list
-rawlist = open('Day1_Module_mass.txt','r')
+rawlist = open('./ressources/Day1_Module_mass.txt','r')
 Module_mass = rawlist.readlines()
 rawlist.close()
 
