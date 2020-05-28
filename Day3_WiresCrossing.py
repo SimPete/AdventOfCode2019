@@ -111,6 +111,8 @@ for command in range((len(Wire2))):
 Day3_fct.gridprint(GRID)
 print("Crossing points found are : ", crossing)
 
+print('anything')
+
 
 
 
